@@ -10,5 +10,6 @@ from .pickle import PickleOutput
 outputters = collections.OrderedDict([
     ('graphviz', GraphvizOutput),
     ('gephi', GephiOutput),
+    ('pickle', PickleOutput),
     # ('ubigraph', UbigraphOutput),
 ])
