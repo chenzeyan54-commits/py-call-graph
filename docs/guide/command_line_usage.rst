@@ -22,7 +22,7 @@ General Arguments
 
 .. cmdoption:: <OUTPUT_MODE>
 
-    A choice of graphviz or gephi.
+    A choice of graphviz, gephi or pickle.
 
 .. cmdoption:: -h, --help
 
